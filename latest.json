@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Aether 0.1.1",
-  "pub_date": "2026-08-19T10:14:12.913Z",
+  "version": "0.1.0",
+  "notes": "Aether 0.1.0",
+  "pub_date": "2026-08-19T10:56:24.255Z",
   "platforms": {
     "macos-universal": {
-      "url": "https://github.com/AetherLabsHQ/AetherApp/releases/download/v0.1.1/Aether_v0.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSFBUUWNGa203ZHJoUDQ5L0w4SkxzUHVISzQ4MVJFaytnNTZUOGlMVWFIdEFqbHBnMWxqb2ZSaURrY0poV0h3NlVYME43QUc1Zm9aeGVNSG4rdWc0ZmcxT0hYM1BiRUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMzNzU3CWZpbGU6QWV0aGVyLmFwcC50YXIuZ3oKQkE3NDFkVFpYQm80clVRbWpZelNRVGE5dXU0b1gwd1RzMHJBbnZZcHlqMTQxdEkrenV3eWRxb2N0RzRHZis3bEk4NklMNUV0UGFCVDlBWHh0WWxvQUE9PQo="
+      "url": "https://github.com/AetherLabsHQ/AetherApp/releases/download/v0.1.0/Aether_v0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSFBUUWNGa203ZHBGWkdhdERYaVlHaVJrSmZoV0QwMWNDdGdoNm5vSHZ5cTJVbkNlV1NTMXdhZERmZjhGUS8ybHBqL1ZCWFhualVrTUJYMGUzZDNqNE1OSzYvaEs1N1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM1OTI0CWZpbGU6QWV0aGVyLmFwcC50YXIuZ3oKeVlhSWZLeWtadStYUXEzRGRYNUNRdG9NT0ZhaUREZ2lZaHhVVUVQbXNCMWJhT3NheG8rRTdWQ0JFYVdJKzRBaEcwaGlrZXJ6R0RqbFFEYmtvdmxlQWc9PQo="
     }
   }
 }
