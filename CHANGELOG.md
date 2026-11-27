@@ -2,6 +2,16 @@
 
 All notable Aether releases are documented here. The public release repository receives a copy of this file without the closed-source application code.
 
+## [0.1.4] - 2026-11-27
+
+Aether 0.1.4 makes it easier to return to your work and organize content across a vault.
+
+- **Vault homepage.** Aether resumes your last open page or database. Choose a fallback in Settings. New installs open with a Main Vault and a Getting started page.
+- **Drag and drop.** Drop content onto pages, databases, folders, and Trash. Reordering a sorted database can switch to custom order while preserving the rest of the order.
+- **Trash.** Search in list or gallery view, restore or delete a selection, and get a warning when references block deletion.
+- **Text snippets.** Converting a snippet to a page uses its first line as the title and keeps the rest in the document.
+- **Interface.** Updated breadcrumbs, menus, and selection controls, with sidebar unpinning and direct close controls on audio and video previews. Keyboard reordering keeps items clear of Trash.
+
 ## [0.1.3] - 2026-11-25
 
 A larger update with new ways to capture quick notes, organize your vault, and connect your ideas.
